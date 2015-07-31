@@ -1,0 +1,13 @@
+Program 1
+Infix Expression: 5 + 4 $ 
+Postfix: 5 
+Stack: 
+Postfix: 5 
+Stack: + 
+Postfix: 5 4 
+Stack: + 
+Postfix: 5 4 + 
+Stack: 
+Postfix expression: 5 4 + 
+Evaluating Postfix: 9 
+Result: 9
